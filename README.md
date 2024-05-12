@@ -12,18 +12,12 @@ By leveraging the power of foundation models, our goal is to revolutionize EEG d
 
 ## Objectives of the EEG Foundation Model 
 
-1. **Develop an Open-Source Foundation Model:** Create a large-scale, open-source foundation model specifically designed for EEG data analysis.
-2. **Algorithm Development:** Develop advanced algorithms for EEG signal processing to enhance data quality and extract relevant features.
-3. **Automatic Feature Extraction:** Implement automatic feature extraction techniques to capture informative patterns and characteristics in EEG signals.
-4. **Deep Learning-Based Pre-Training:** Utilize deep learning methodologies for pre-training the foundation model on publicly available EEG datasets.
-5. **Enhance Robustness and Versatility:** Improve the model's robustness and versatility in analyzing complex EEG patterns, particularly in scenarios with limited data availability.
-6. **Enable Reproducible Research:** Foster open science practices by making the model, algorithms, and datasets publicly available, promoting collaboration and reproducibility.
-7. **Facilitate Advancements in Neuroscience:** Contribute to advancements in neuroscience research by providing researchers and clinicians with powerful tools for EEG data analysis and interpretation.
-8. **Address Data Variability:** Develop techniques to handle variability and heterogeneity in EEG data arising from factors such as individual differences, recording conditions, and artifact contamination.
-9. **Explore Novel Predictive Features:** Investigate novel features and representations extracted from EEG signals to enhance predictive modeling performance and capture subtle patterns.
-10. **Enhance Model Interpretability:** Improve the interpretability of predictive models by integrating explainable AI techniques, such as feature importance analysis and model visualization methods.
-11. **Integrate Multimodal Data:** Explore the integration of EEG data with other modalities, such as functional MRI (fMRI) or eye-tracking data, to provide complementary information and improve predictive modeling outcomes.
-12. **Enable Real-Time Analysis:** Develop real-time EEG analysis pipelines capable of providing immediate feedback and interventions based on EEG data, enabling interactive applications such as neurofeedback or closed-loop systems.
-13. **Ensure Ethical Considerations:** Address ethical considerations and privacy concerns in EEG data analysis, including data anonymization, informed consent, and protection of sensitive information, to uphold ethical standards and safeguard participant rights.
-14. **Validate in Real-World Settings:** Validate predictive models in real-world healthcare settings to assess their efficacy, usability, and impact on patient outcomes, facilitating the translation of research findings into clinical practice.
-15. **Promote Education and Training:** Provide educational resources and training materials to empower researchers, clinicians, and students with the knowledge and skills needed to utilize EEG data analysis tools effectively.
+1 Literature Review: Research and review existing open-source foundation models for medical data, specifically EEG data. Identify the current limitations and challenges in this field.
+
+2 A robust, open-source EEG foundation model.
+
+3 Documentation and examples demonstrating the model's usage.
+
+4 A report detailing the methodologies used and the performance of the model.
+
+5 The model weights and code will be made publicly available on a platform such as GitHub.
